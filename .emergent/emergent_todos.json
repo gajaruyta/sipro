@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Setup: pasang repo ke /app, .env, dependensi, service jalan",
+    "status": "completed"
+  },
+  {
+    "content": "Baseline: seed_reset + 17 gates lama PASS (tanpa regresi)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37 POC: jalankan scripts/poc_37.py sampai 100% PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37 Frontend: halaman Kalibrasi + integrasi Analitik Telat (semua fitur backend terekspos)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37 Gate: scripts/verify_37.py jadi gate ke-18 + compliance",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: 18 gates + poc_37 hijau pada DB tersegar",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 37: uji end-to-end testing_agent (user stories Fase 37 + regresi)",
+    "status": "pending"
+  },
+  {
+    "content": "Audit UI menyeluruh: kartu rusak, background hilang, font tidak konsisten, CSS tidak terimplement",
+    "status": "pending"
+  },
+  {
+    "content": "Perbaiki semua temuan UI di seluruh halaman",
+    "status": "pending"
+  },
+  {
+    "content": "Uji UI end-to-end dengan testing_agent (verifikasi laporan bug UI user)",
+    "status": "pending"
+  }
+]

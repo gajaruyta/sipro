@@ -1,0 +1,772 @@
+[
+ {
+  "page": "konstruksi",
+  "tab": "Papan Mandor",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__0-papan-mandor.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "konstruksi",
+  "tab": "Monitoring Unit",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__1-monitoring-unit.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "konstruksi",
+  "tab": "Antrean Kerja",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__2-antrean-kerja.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "konstruksi",
+  "tab": "Infrastruktur Kawasan",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__3-infrastruktur-kawasan.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "konstruksi",
+  "tab": "QC & Inspeksi",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__4-qc-inspeksi.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "konstruksi",
+  "tab": "Laporan & Analitik",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__5-laporan-analitik.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "konstruksi",
+  "tab": "Template Jadwal",
+  "shot": "/app/ui_audit/owner_tabs/konstruksi__6-template-jadwal.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Dashboard",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__0-dashboard.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [
+   {
+    "text": "Piutang (AR) Outstanding",
+    "tag": "P",
+    "cls": "text-xs font-medium text-muted-foreground truncate",
+    "need": 145,
+    "have": 128,
+    "clipped": true
+   },
+   {
+    "text": "Rp 680.000.000",
+    "tag": "P",
+    "cls": "mt-2 text-2xl font-semibold font-heading tabular-nums text-primary",
+    "need": 184,
+    "have": 143,
+    "clipped": false
+   },
+   {
+    "text": "Rp 212.500.000",
+    "tag": "P",
+    "cls": "mt-2 text-2xl font-semibold font-heading tabular-nums text-rose-600",
+    "need": 184,
+    "have": 143,
+    "clipped": false
+   },
+   {
+    "text": "Utang (AP) Outstanding",
+    "tag": "P",
+    "cls": "text-xs font-medium text-muted-foreground truncate",
+    "need": 136,
+    "have": 127,
+    "clipped": true
+   },
+   {
+    "text": "Rp 651.000.000",
+    "tag": "P",
+    "cls": "mt-2 text-2xl font-semibold font-heading tabular-nums text-amber-600",
+    "need": 184,
+    "have": 143,
+    "clipped": false
+   },
+   {
+    "text": "Rp 170.000.000",
+    "tag": "P",
+    "cls": "mt-2 text-2xl font-semibold font-heading tabular-nums text-indigo-600",
+    "need": 184,
+    "have": 143,
+    "clipped": false
+   }
+  ],
+  "text_overflow_count": 6,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Arus Kas",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__1-arus-kas.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "keuangan",
+  "tab": "Piutang (AR)",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__2-piutang-ar.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Titipan",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__3-titipan.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "keuangan",
+  "tab": "Penagihan",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__4-penagihan.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Utang (AP)",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__5-utang-ap.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Komisi",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__6-komisi.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Laporan",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__7-laporan.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "keuangan",
+  "tab": "Konfigurasi",
+  "shot": "/app/ui_audit/owner_tabs/keuangan__8-konfigurasi.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Laba Rugi",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__0-laba-rugi.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Neraca",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__1-neraca.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Neraca Lajur",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__2-neraca-lajur.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Arus Kas",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__3-arus-kas.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Per Proyek",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__4-per-proyek.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Analisa Rasio",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__5-analisa-rasio.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "laporan-akuntansi",
+  "tab": "Tutup Periode",
+  "shot": "/app/ui_audit/owner_tabs/laporan-akuntansi__6-tutup-periode.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "akuntansi",
+  "tab": "Jurnal Umum",
+  "shot": "/app/ui_audit/owner_tabs/akuntansi__0-jurnal-umum.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "akuntansi",
+  "tab": "Buku Besar",
+  "shot": "/app/ui_audit/owner_tabs/akuntansi__1-buku-besar.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "akuntansi",
+  "tab": "Neraca Saldo",
+  "shot": "/app/ui_audit/owner_tabs/akuntansi__2-neraca-saldo.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "akuntansi",
+  "tab": "Bagan Akun",
+  "shot": "/app/ui_audit/owner_tabs/akuntansi__3-bagan-akun.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "material",
+  "tab": "Stok & Buku Besar",
+  "shot": "/app/ui_audit/owner_tabs/material__0-stok-buku-besar.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "material",
+  "tab": "Permintaan Material",
+  "shot": "/app/ui_audit/owner_tabs/material__1-permintaan-material.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "material",
+  "tab": "Anggaran (RAB)",
+  "shot": "/app/ui_audit/owner_tabs/material__2-anggaran-rab.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "boq",
+  "tab": "Rincian RAB",
+  "shot": "/app/ui_audit/owner_tabs/boq__0-rincian-rab.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "boq",
+  "tab": "Kendali Biaya",
+  "shot": "/app/ui_audit/owner_tabs/boq__1-kendali-biaya.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "subkon",
+  "tab": "Subkontraktor",
+  "shot": "/app/ui_audit/owner_tabs/subkon__0-subkontraktor.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "subkon",
+  "tab": "SPK (Perintah Kerja)",
+  "shot": "/app/ui_audit/owner_tabs/subkon__1-spk-perintah-kerja.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "subkon",
+  "tab": "Progress & Termin",
+  "shot": "/app/ui_audit/owner_tabs/subkon__2-progress-termin.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "pengadaan",
+  "tab": "Purchase Order",
+  "shot": "/app/ui_audit/owner_tabs/pengadaan__0-purchase-order.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "pengadaan",
+  "tab": "3-Way Match",
+  "shot": "/app/ui_audit/owner_tabs/pengadaan__1-3-way-match.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "pajak",
+  "tab": "Ringkasan & SPT PPN",
+  "shot": "/app/ui_audit/owner_tabs/pajak__0-ringkasan-spt-ppn.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "pajak",
+  "tab": "Faktur Pajak",
+  "shot": "/app/ui_audit/owner_tabs/pajak__1-faktur-pajak.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "pajak",
+  "tab": "Catatan Pajak",
+  "shot": "/app/ui_audit/owner_tabs/pajak__2-catatan-pajak.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "aset",
+  "tab": "Register Aset",
+  "shot": "/app/ui_audit/owner_tabs/aset__0-register-aset.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [
+   {
+    "text": "Toyota Avanza operasional pemasaran",
+    "tag": "P",
+    "cls": "truncate",
+    "need": 255,
+    "have": 224,
+    "clipped": true
+   },
+   {
+    "text": "Laptop & workstation tim desain (5 unit)",
+    "tag": "P",
+    "cls": "truncate",
+    "need": 263,
+    "have": 224,
+    "clipped": true
+   },
+   {
+    "text": "Bangunan kantor pemasaran & showroom",
+    "tag": "P",
+    "cls": "truncate",
+    "need": 276,
+    "have": 224,
+    "clipped": true
+   }
+  ],
+  "text_overflow_count": 3,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "aset",
+  "tab": "Penyusutan Bulanan",
+  "shot": "/app/ui_audit/owner_tabs/aset__1-penyusutan-bulanan.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "pembiayaan",
+  "tab": "Fasilitas & Angsuran",
+  "shot": "/app/ui_audit/owner_tabs/pembiayaan__0-fasilitas-angsuran.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "pembiayaan",
+  "tab": "Riwayat Pembayaran",
+  "shot": "/app/ui_audit/owner_tabs/pembiayaan__1-riwayat-pembayaran.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "marketing-fee",
+  "tab": "Pengajuan Fee",
+  "shot": "/app/ui_audit/owner_tabs/marketing-fee__0-pengajuan-fee.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "marketing-fee",
+  "tab": "Master Agen",
+  "shot": "/app/ui_audit/owner_tabs/marketing-fee__1-master-agen.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "lapangan",
+  "tab": "Buku Harian",
+  "shot": "/app/ui_audit/owner_tabs/lapangan__0-buku-harian.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "lapangan",
+  "tab": "Punch List",
+  "shot": "/app/ui_audit/owner_tabs/lapangan__1-punch-list.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "deal",
+  "tab": "Unit (18)",
+  "shot": "/app/ui_audit/owner_tabs/deal__0-unit-18.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "deal",
+  "tab": "Deal (1)",
+  "shot": "/app/ui_audit/owner_tabs/deal__1-deal-1.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "admin-master",
+  "tab": "Template Dokumen",
+  "shot": "/app/ui_audit/owner_tabs/admin-master__0-template-dokumen.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "admin-master",
+  "tab": "Template QC",
+  "shot": "/app/ui_audit/owner_tabs/admin-master__1-template-qc.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "admin-master",
+  "tab": "Kebijakan Bukti Kerja",
+  "shot": "/app/ui_audit/owner_tabs/admin-master__2-kebijakan-bukti-kerja.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ },
+ {
+  "page": "admin-master",
+  "tab": "Kesehatan Data",
+  "shot": "/app/ui_audit/owner_tabs/admin-master__3-kesehatan-data.png",
+  "broken_cards": [],
+  "broken_count": 0,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": [
+   "WebSocket connection to 'ws://localhost:443/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED"
+  ]
+ },
+ {
+  "page": "admin-master",
+  "tab": "Kamus Data (SSOT)",
+  "shot": "/app/ui_audit/owner_tabs/admin-master__4-kamus-data-ssot.png",
+  "broken_cards": [
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 199,
+    "text": "Nilai kanonik Label tampilan asset Aset liability Liabilitas"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 224,
+    "text": "Nilai kanonik Label tampilan comment Komentar system Sistem "
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 133,
+    "text": "Nilai kanonik Label tampilan active Aktif inactive Tidak akt"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 224,
+    "text": "Nilai kanonik Label tampilan agen_properti Agen Properti bro"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 133,
+    "text": "Nilai kanonik Label tampilan anuitas Anuitas (angsuran total"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 166,
+    "text": "Nilai kanonik Label tampilan pending_approval Menunggu perse"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 166,
+    "text": "Nilai kanonik Label tampilan scheduled Terjadwal done Selesa"
+   },
+   {
+    "cls": "mt-3 max-h-56 overflow-y-auto rounded-lg border",
+    "w": 520,
+    "h": 166,
+    "text": "Nilai kanonik Label tampilan meeting Meeting survey Survey l"
+   }
+  ],
+  "broken_count": 130,
+  "text_overflow": [],
+  "text_overflow_count": 0,
+  "page_overflow": false,
+  "console_errors": []
+ }
+]
